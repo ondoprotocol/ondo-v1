@@ -1,6 +1,6 @@
 # Ondo
 
-[![CI](https://github.com/ondoprotocol/protocol-dev/actions/workflows/nodejs.yml/badge.svg)](https://github.com/ondoprotocol/protocol-dev/actions/workflows/nodejs.yml)
+[![CI](https://github.com/ondoprotocol/ondo-protocol/actions/workflows/nodejs.yml/badge.svg)](https://github.com/ondoprotocol/ondo-protocol/actions/workflows/nodejs.yml)
 
 ## Install
 
@@ -56,9 +56,9 @@ yarn test:bsc bsc/test/some-test.spec.ts
 yarn test:polygon polygon/test/some-test.spec.ts
 ```
 
-## Deployment 
+## Deployment
 
-We are using `hardhat-deploy`. There are a number of scripts below `deploy/` for each chunk of functionality. To deploy the contracts required for softlaunch (i.e. no Rollover), run the following: 
+We are using `hardhat-deploy`. There are a number of scripts below `deploy/` for each chunk of functionality. To deploy the contracts required for softlaunch (i.e. no Rollover), run the following:
 
 ```sh
 yarn deploy
@@ -66,10 +66,9 @@ yarn deploy:bsc
 yarn deploy:mumbai
 ```
 
-TODO: Replace the above with a more general mechanism. 
+TODO: Replace the above with a more general mechanism.
 
-Note: multiple tags don't work, but a bug has been filed. 
-
+Note: multiple tags don't work, but a bug has been filed.
 
 ## Run local Ethereum node
 
