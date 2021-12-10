@@ -1,0 +1,17 @@
+node_modules
+build
+types
+migrations
+artifacts
+cache
+typechain
+.env
+.ganache-db
+artifacts
+coverage*
+stash
+yarn-error.log
+*~
+.DS_Store
+deployed/*
+deployments

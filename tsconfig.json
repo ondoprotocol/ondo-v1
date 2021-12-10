@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2018", "DOM"],
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "strict": true,
+    "target": "ES2018",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "noImplicitThis": false
+  },
+  "include": [
+    "./hardhat.config.ts",
+    "**/*.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "test/sushi2.spec.weth-bit-rescue-from-allpairts"
+  ],
+  "files": ["./hardhat.config.ts", "./declarations.d.ts"]
+}
