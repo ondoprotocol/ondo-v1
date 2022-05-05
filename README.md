@@ -1,3 +1,7 @@
+> 💡 **Note: This repository is a one-time snapshot of our smart contract repository for our Immunefi bug bounty. The team develops and collaborates on a private repository for now.**
+
+---
+
 # Ondo
 
 [![CI](https://github.com/ondoprotocol/ondo-protocol/actions/workflows/nodejs.yml/badge.svg)](https://github.com/ondoprotocol/ondo-protocol/actions/workflows/nodejs.yml)
