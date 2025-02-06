@@ -23,9 +23,9 @@ You can create vault with `createVault` task.
 | --senior-user-cap         | Input senior test caps on users (default: 0)                                                                    |
 | --start-time              | Input the start time from the current latest block timestamp. (default: 100)                                    |
 | --strategist              | Input the strategist address (default: "")                                                                      |
-| --sushi-pool-id           | Input sushi masterchef poolId (avaialble for sushi strategies)                                                  |
-| --path-from-second-reward | Input the path from second reward token using comma. (avaialble for sushi staking v2 strategy)                  |
-| --path-from-sushi         | Input the path from sushi using comma. (avaialble for sushi strategies)                                         |
+| --sushi-pool-id           | Input sushi masterchef poolId (available for sushi strategies)                                                  |
+| --path-from-second-reward | Input the path from second reward token using comma. (available for sushi staking v2 strategy)                  |
+| --path-from-sushi         | Input the path from sushi using comma. (available for sushi strategies)                                         |
 
 Usage:
 
