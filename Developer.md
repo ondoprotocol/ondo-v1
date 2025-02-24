@@ -271,7 +271,7 @@ rate is set to 1%, for example, some investors may wish to exit.
 *deposit*
 
 Deposit tokens into a queue to invest into tranche of this
-Rollover. Deposits are not gauranteed to get in.
+Rollover. Deposits are not guaranteed to get in.
 
 *claim* 
 
@@ -414,7 +414,7 @@ There are 9 access control roles defined for Ondo:
 
 - Deployer: The admin for the following roles. While this could also
   be the DAO or a multi-sig account, we felt having this allowed some
-  seperation from pure governance issues. For example, we could grant
+  separation from pure governance issues. For example, we could grant
   another team the deployer role, giving them the ability to create
   strategies independently of Ondo. 
 
